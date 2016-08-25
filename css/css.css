@@ -1,0 +1,297 @@
+
+
+	@import 'https://fonts.googleapis.com/css?family=Orbitron';
+	@import 'https://fonts.googleapis.com/css?family=Prompt';
+
+
+	.titulo{
+
+		color: #fff;
+		font-family: 'Orbitron', sans-serif;
+		background: #494D47;
+		font-size: 165%; 
+
+	}
+
+
+	.titulo1{
+
+		background: #D52B2B;
+		border: 3px solid #000; 
+		font-family: 'Orbitron', sans-serif;
+		color: #fff;
+
+	}
+	.titulo2{
+
+		background: #D52B2B; 
+		border: 3px solid #000;
+		font-family: 'Orbitron', sans-serif;
+		color: #fff;
+	}
+	.titulo3{
+
+		background: #D52B2B; 
+		border: 3px solid #000;
+		font-family: 'Orbitron', sans-serif;
+		color: #fff;
+	}
+
+	.caja1{
+	
+			float: left;
+			width: 20%;
+			height: 30%;
+			background: #494D47;
+			color: #fff;
+			font-family: 'Prompt', sans-serif;
+			border: 3px solid #000;
+
+
+	}
+
+	.caja2{
+			clear: right;
+			float:left; 
+			width: 20%;
+			height: 30%;
+			background: #494D47;
+			color: #fff;
+			font-family: 'Prompt', sans-serif;
+			
+			border: 3px solid #000;
+	}
+
+
+	.caja3{
+	
+			clear: right;
+			float:left;
+			width: 20%;
+			height: 30%;
+			background: #494D47;
+			color: #fff;
+			font-family: 'Prompt', sans-serif;
+			
+			border: 3px solid #000;
+
+	}
+
+
+	@media screen and (min-width: 0px) and (max-width:767px){
+
+	/* version movil*/
+
+	.titulo1{
+		
+		float: right;
+		margin: 0% 0% 0% 70%;
+		font-size: 115%; 
+		
+
+	 }
+
+	.titulo2{
+		
+		
+		float: right;
+		margin: 0% 0% 0% 70%;
+		
+		font-size: 115%; 
+		
+
+	 }
+
+	.titulo3{
+		
+		
+		float: right;
+		margin: 0% 0% 0% 70%;
+		
+		font-size: 115%; 
+		
+
+	 }
+
+
+	.caja1{
+	
+			clear: both;
+			float: none;
+			width: 70%;
+			height: 30%;
+			margin: 1% 0% 0% 15%;
+			font-size: 90%; 
+			
+
+		}
+
+	.caja2{
+			clear: both;
+			float:left; 
+			width: 70%;
+			height: 30%;
+			margin: 1% 0% 0% 15%;
+			font-size: 90%; 
+			
+		}
+
+
+	.caja3{
+	
+			clear: both;
+			float:left;
+			width: 70%;
+			height: 30%;
+			margin: 1% 0% 0% 15%;
+			font-size: 90%; 
+			
+
+		}
+	}
+
+	@media screen and (min-width: 768px) and (max-width:991px){
+
+		/* version tablet */
+
+		.titulo1{
+		
+		
+		float:right;
+		margin: 0% 0% 0% 60%;
+		font-size: 115%; 
+		
+      }
+     
+     .titulo2{
+		
+		
+		
+		margin: 0% 0% 0% 50%;
+		
+		font-size: 115%;  
+		
+
+	 }
+	 .titulo3{
+		
+		
+		
+		margin: 0% 0% 0% 80%;
+		font-size: 115%; 
+		
+
+	 }
+	 
+
+
+	.caja1{
+	
+			
+			float: left;
+			width: 40%;
+			height: 30%;
+			margin: 1% 0% 0% 9%;
+			font-size: 90%; 
+			
+
+		}
+
+	.caja2{
+			
+			float:right; 
+			width: 40%;
+			height: 30%;
+			margin: 1% 9% 0% 0%;
+			
+			font-size: 90%; 
+			
+		}
+
+
+	.caja3{
+	
+			clear: both;
+			
+			width: 82%;
+			height: 80%;
+			margin: 1% 9% 0% 9%;;
+			
+		}
+	}
+
+	@media screen and (min-width: 992px){
+		/* version de escritorio*/
+
+	.titulo1{
+		
+		
+		
+		margin: 0% 0% 0% 45%;
+		
+		font-size: 115%; 
+		
+
+	 }
+
+	.titulo2{
+		
+		
+		
+		margin: 0% 0% 0% 40%;
+		
+		font-size: 115%; 
+		
+
+	 }
+
+	.titulo3{
+		
+		
+		
+		margin: 0% 0% 0% 40%;
+		
+		font-size: 115%; 
+		
+
+	 }
+
+
+		.caja1{
+	
+			
+			float: left;
+			width: 30%;
+			height: 30%;
+			margin: 10% 0% 0% 0%;
+			font-size: 90%; 
+			
+
+		}
+
+	.caja2{
+			
+			float:left; 
+			width: 30%;
+			height: 30%;
+			margin: 10% 0% 0% 2%;
+			font-size: 90%; 
+			
+		}
+
+
+	.caja3{
+	
+			float: left;
+			width: 34%;
+			height: 80%;
+			margin: 10% 0% 0% 2%;;
+			font-size: 90%;
+
+
+
+
+		}
+	}
+
+
